@@ -12,7 +12,7 @@ MedSchedule, hastanelerde sağlık personeli çizelgeleme ve iş yükü dağıl�
 - 🔔 Gerçek zamanlı bildirimler
 - 📈 Detaylı raporlama ve analitik
 
-## Teknoloji Yığını
+## Teknolojiler
 
 ### Backend
 - FastAPI (Python web framework)
